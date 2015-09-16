@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:55:57.746362
+#+TITLE: 抱朴子神仙金汋經
+#+PROPERTY: DZID  DZ0917
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—204 三卷 洞神部眾術類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
