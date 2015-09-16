@@ -1,34 +1,33 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:55:57.802423
+# -*- mode: mandoku-view -*-
 #+TITLE: 抱朴子神仙金汋經
-#+PROPERTY: DZID  DZ0917
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—204 三卷 洞神部眾術類
+#+DATE: 2015-08-29 00:55:58
+#+PROPERTY:  LASTPB <PB KR5c0316_SJB_004-190208c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5c0316_SJB_003-190208b>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5c0316_HFL_002-006b>
 #+PROPERTY: JUAN 3
-#+PROPERTY: ID KR5c0316
-<pb:KR5c0316_HFL_003-001a>¶
+<md:KR5c0316_HFL_003-001a>¶<pb:KR5c0316_SJB_003-190208c>
 尸者乎合之又當祭祭有圖法一卷在太清¶
 經末卷内具載所有下卷神丹法第一丹名¶
 丹華當先作玄黄用雄黄等細法標列之下¶
 卷耳¶
-抱朴子神仙金汋經卷中¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5c0316_HFL_003-001b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+抱朴子神仙金汋經卷中¶¶¶¶¶¶<md:KR5c0316_HFL_003-001b>¶¶¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
